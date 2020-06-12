@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "6840B7DD-4851-48DF-AA3F-86E2B7EDDE16"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B7AC65F9-B9E5-4ACE-A05F-C8C1C508D702"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Autoattendance/services/Receivecoordinates.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "10"
+            endingLineNumber = "10"
+            landmarkName = "Receivecoordinates"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "B7AC65F9-B9E5-4ACE-A05F-C8C1C508D702 - e56486833603d12c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Autoattendance.Receivecoordinates.__allocating_init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; Autoattendance.Receivecoordinates"
+                  moduleName = "Autoattendance"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Maaz/DEVELOPER/Autoattendance/Autoattendance/services/receivecoordinates.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  uuid = "B7AC65F9-B9E5-4ACE-A05F-C8C1C508D702 - 164333ae826d9b5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Autoattendance.Receivecoordinates.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; Autoattendance.Receivecoordinates"
+                  moduleName = "Autoattendance"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Maaz/DEVELOPER/Autoattendance/Autoattendance/services/receivecoordinates.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "228">
+               </Location>
+               <Location
+                  uuid = "B7AC65F9-B9E5-4ACE-A05F-C8C1C508D702 - 4c8e8a16f8648c6a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Autoattendance.Receivecoordinates.__allocating_init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Autoattendance.Receivecoordinates&gt;"
+                  moduleName = "Autoattendance"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Maaz/DEVELOPER/Autoattendance/Autoattendance/services/receivecoordinates.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  uuid = "B7AC65F9-B9E5-4ACE-A05F-C8C1C508D702 - 6a99c92979c40967"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Autoattendance.Receivecoordinates.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Autoattendance.Receivecoordinates&gt;"
+                  moduleName = "Autoattendance"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Maaz/DEVELOPER/Autoattendance/Autoattendance/services/receivecoordinates.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "148">
+               </Location>
+               <Location
+                  uuid = "B7AC65F9-B9E5-4ACE-A05F-C8C1C508D702 - 58112a92b7f57b49"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Autoattendance.Receivecoordinates.__ivar_destroyer"
+                  moduleName = "Autoattendance"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Maaz/DEVELOPER/Autoattendance/Autoattendance/services/receivecoordinates.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  uuid = "B7AC65F9-B9E5-4ACE-A05F-C8C1C508D702 - f0f681edac036127"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Autoattendance.Receivecoordinates.__deallocating_deinit"
+                  moduleName = "Autoattendance"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Maaz/DEVELOPER/Autoattendance/Autoattendance/services/receivecoordinates.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
